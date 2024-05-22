@@ -1,0 +1,15 @@
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.exe
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.deps.json
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.runtimeconfig.json
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.runtimeconfig.dev.json
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.dll
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.pdb
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.AssemblyInfoInputs.cache
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.AssemblyInfo.cs
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.dll
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.pdb
+C:\Users\mjl77\source\repos\DocuMaster\bin\Debug\netcoreapp3.0\DocuMaster.dll.config
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.csproj.CoreCompileInputs.cache
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.genruntimeconfig.cache
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp3.0\DocuMaster.csproj.AssemblyReference.cache

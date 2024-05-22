@@ -1,0 +1,16 @@
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster.deps.json
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster.runtimeconfig.json
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster.runtimeconfig.dev.json
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster.dll
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/ref/IndexarLibroDocuMaster.dll
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/IndexarLibroDocuMaster.pdb
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.csprojAssemblyReference.cache
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.GeneratedMSBuildEditorConfig.editorconfig
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.AssemblyInfoInputs.cache
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.AssemblyInfo.cs
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.csproj.CoreCompileInputs.cache
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.dll
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/ref/IndexarLibroDocuMaster.dll
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.pdb
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/obj/Debug/net5.0/IndexarLibroDocuMaster.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Aqmw+QoVyPB4cjOw99D1Uvl6rDyrciYqVYm29TUB7SUyJNkqHVRb5ilpvDuncrGfqrQyXMTqVyMcKEEe9kHRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mjl77\\source\\repos\\DocuMaster\\DocuMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjl77\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\mjl77\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

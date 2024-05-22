@@ -1,0 +1,5 @@
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/publish/IndexarLibroDocuMaster
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/publish/IndexarLibroDocuMaster.dll
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/publish/IndexarLibroDocuMaster.deps.json
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/publish/IndexarLibroDocuMaster.runtimeconfig.json
+/home/manuel/Documentos/Código Fuente/C# Linux/IndexarLibroDocuMaster/bin/Debug/net5.0/publish/IndexarLibroDocuMaster.pdb

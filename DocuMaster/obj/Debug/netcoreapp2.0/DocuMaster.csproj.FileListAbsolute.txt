@@ -1,0 +1,3 @@
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp2.0\DocuMaster.csprojAssemblyReference.cache
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp2.0\DocuMaster.AssemblyInfoInputs.cache
+C:\Users\mjl77\source\repos\DocuMaster\obj\Debug\netcoreapp2.0\DocuMaster.AssemblyInfo.cs
