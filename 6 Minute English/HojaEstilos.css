@@ -1,0 +1,14 @@
+.EstiloBoton {
+    background-color: #1a675e;
+    color: white;
+    display: block;
+    float: right;
+    font-family: Calibri, sans-serif;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.FraseVocabulario {
+    cursor: pointer;
+    text-decoration: underline;
+}
